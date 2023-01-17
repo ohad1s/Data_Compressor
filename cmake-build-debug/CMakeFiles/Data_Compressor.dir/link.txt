@@ -1,0 +1,1 @@
+/usr/bin/clang++-9 -g CMakeFiles/Data_Compressor.dir/main.cpp.o CMakeFiles/Data_Compressor.dir/Compression.cpp.o -o Data_Compressor 
